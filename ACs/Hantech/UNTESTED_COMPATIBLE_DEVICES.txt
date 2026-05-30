@@ -1,11 +1,7 @@
 Untested possibly compatible devices
 ====================================
-
-- Hantech A018-12KR2
-- Hantech Tuya/WiFi JHS-A018-12KR2/A WIFI VDE PLUG
 - MTF / Mountfield MTF AC 12000 / JHS-A018-12KR2/A
 - Lifetime Air JHS-A018-12KR2/A
-- ProKlima / Bauhaus JHS-A018-12KR2/C-W
 - ProKlima A018-12KR2/C
 - Voltomat JHS A018 12KR2CW
 - Iiglo JHS-A018-12KR2/C
