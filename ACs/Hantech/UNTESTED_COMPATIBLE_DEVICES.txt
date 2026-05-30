@@ -1,0 +1,79 @@
+Untested devices that may be compatible
+=======================================
+
+This remote was tested on a Hantech A018-12KR2/A portable air conditioner.
+The devices below appear to be based on the same or closely related JHS
+A018-12KR2 platform, so this IR file may also work for them.
+
+Important: These devices are not yet confirmed. Please test before treating
+them as supported.
+
+Very high probability
+---------------------
+
+- Hantech A018-12KR2/A
+  Exact label model of the tested unit.
+  Source: https://www.kleinanzeigen.de/s-anzeige/mobile-klimaanlage-mit-fernbedienung-wie-neu-hantech-a018-12kr2-a/2779608701-176-4301
+
+- Hantech A018-12KR2
+  Same model family without suffix. SmartIR lists Hantech A018-12KR2 as an IR
+  code set.
+  Source: https://manuall.de/hantech-a018-12kr2-klimagerat/
+
+- Hantech Tuya/WiFi JHS-A018-12KR2/A WIFI VDE PLUG
+  Later WiFi/Tuya variant. It appears to use the same case and remote layout.
+  Hornbach lists it as a 12,000 BTU / 3,500 W unit.
+  Source: https://www.hornbach.at/p/mobiles-klimageraet-mit-abluftschlauch-hantech-12-000-tuya-weiss-schwarz-mit-fernbedienung-bis-raumgroesse-35-m-84m-lokales-klimageraet/10474165/
+
+- MTF / Mountfield MTF AC 12000 / JHS-A018-12KR2/A
+  Manual/EU declaration explicitly names model JHS-A018-12KR2/A, 12,000 BTU /
+  3.53 kW, R290/230 g, 1357 W.
+  Source: https://www.mountfield.cz/file/13436/navod-na-pouziti.pdf
+
+- Lifetime Air JHS-A018-12KR2/A
+  Pollin data sheet lists Lifetime Air with supplier model JHS-A018-12KR2/A,
+  12,000 BTU, 1357 W, 42 x 36 x 72.2 cm.
+  Source: https://www.pollin.de/productdownloads/D694010D.PDF
+
+High probability
+----------------
+
+- ProKlima / Bauhaus JHS-A018-12KR2/C-W
+  Same JHS-A018-12KR2 platform and 12,000 BTU class. Suffix differs from the
+  tested /A model.
+  Source: https://media.cdn.bauhaus/m/1268931/BH_DOC_1268931.pdf
+
+- ProKlima A018-12KR2/C
+  Home Assistant discussion describes this as a Bauhaus/ProKlima portable AC
+  with Cool/Dry/Fan/Sleep, 3 fan speeds, vertical swing, and 16-31 C range.
+  Source: https://community.home-assistant.io/t/proklima-a018-12kr2-c-portable-air-conditioner-fully-working-with-localtuya/544349
+
+- Voltomat JHS A018 12KR2CW
+  Likely Bauhaus rebrand of the /C-W platform, but source quality is weaker.
+  Source: https://www.youtube.com/watch?v=axNMnnwmtTs
+
+Medium to high probability
+--------------------------
+
+- Iiglo JHS-A018-12KR2/C
+  Manual names JHS-A018-12KR2/C Portable Air Conditioner. Likely same JHS
+  generation, but IR compatibility is not confirmed.
+  Source: https://www.komplett.se/productmedia/70263/iigol-im-a018-09-12kr2c-draft.pdf
+
+Medium probability
+------------------
+
+- Ideal JHS-A018-12KR2-D
+  Used listing names Ideal JHS-A018-12KR2-D, 12,000 BTU / 3.53 kW. Likely same
+  platform, but the source is less reliable.
+  Source: https://www.tori.fi/recommerce/forsale/item/41006413
+
+- CASAYA JHS-A018-12KR2/D
+  Marketplace snippet names CASAYA model JHS-A018-12KR2/D, 3.53 kW, 1350 W.
+  Likely same platform, but only a marketplace source is available.
+  Source: https://www.kleinanzeigen.de/s-bayern/klimager%C3%A4t-mobil/k0l5510
+
+- JHS A018-12KR/C
+  International 12,000 BTU A018-12KR family model, without "2" and without the
+  EU suffix. It may be related, but is not confirmed to be identical.
+  Source: https://factorypure.com/products/jhs-a018-12kr-c-12000-btu-portable-air-conditioner-with-dehumidifier-and-remote-white-new
