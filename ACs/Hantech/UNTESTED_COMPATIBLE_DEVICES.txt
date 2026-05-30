@@ -1,7 +1,6 @@
 Untested possibly compatible devices
 ====================================
 
-- Hantech A018-12KR2/A
 - Hantech A018-12KR2
 - Hantech Tuya/WiFi JHS-A018-12KR2/A WIFI VDE PLUG
 - MTF / Mountfield MTF AC 12000 / JHS-A018-12KR2/A
